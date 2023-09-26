@@ -1,10 +1,10 @@
 # LightningWebComponent-ContactInfo ⚡️
+
+## Overview
+
 This is a LightningWebComponent- which displays the Contact Information of the main stakeholders of the company 🧑‍💼
 
 This Lightning Web Component is displayed on the Page Layout of the Accounts object. 😁 💼
-
-
-## Overview
 
 This component provides a user-friendly and visually appealing way to showcase essential contact details of individuals who play a vital role in the organization. It's intended for integration within the Page Layout of the Salesforce Accounts object, enhancing the user experience and making critical contact information readily accessible.
 
